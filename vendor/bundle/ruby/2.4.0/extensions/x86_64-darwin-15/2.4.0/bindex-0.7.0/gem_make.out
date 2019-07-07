@@ -1,0 +1,15 @@
+current directory: /Users/t_umezu/development/ruby/attendance-api/vendor/bundle/ruby/2.4.0/gems/bindex-0.7.0/ext/skiptrace
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20190707-64529-76pwew.rb extconf.rb
+creating Makefile
+
+current directory: /Users/t_umezu/development/ruby/attendance-api/vendor/bundle/ruby/2.4.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/t_umezu/development/ruby/attendance-api/vendor/bundle/ruby/2.4.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/t_umezu/development/ruby/attendance-api/vendor/bundle/ruby/2.4.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190707-64529-jmdy0b/skiptrace
